@@ -48,9 +48,7 @@ const PhotoGallery = () => {
         ))}
       </div>
 
-      <p className="text-center mt-8 font-body text-muted-foreground text-sm italic">
-        (Replace these with real photos! 📸)
-      </p>
+
     </section>
   );
 };

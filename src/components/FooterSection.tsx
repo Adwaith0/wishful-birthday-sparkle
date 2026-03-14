@@ -4,7 +4,7 @@ const FooterSection = () => {
       <div className="glass-card max-w-sm mx-auto rounded-3xl p-8 sparkle-shadow">
         <p className="text-6xl mb-4 animate-heart-beat">🎂</p>
         <h2 className="text-3xl md:text-4xl birthday-text-gradient mb-4">
-          Happy Birthday!
+          Happy Birthday Kalyani
         </h2>
         <p className="font-body text-foreground text-lg font-semibold mb-2">
           Wishing you the most magical 15th year!

@@ -29,8 +29,8 @@ const HeroSection = () => {
         <p className="font-body text-lg md:text-xl text-muted-foreground mb-2 font-semibold tracking-wider uppercase">
           🎉 Today is your special day! 🎉
         </p>
-        <h1 className="text-5xl md:text-7xl lg:text-8xl birthday-text-gradient leading-tight mb-4 drop-shadow-sm">
-          Happy 15th Birthday!
+        <h1 className="text-5xl md:text-7xl lg:text-8xl birthday-text-gradient leading-snug mb-4 drop-shadow-sm">
+          Happy 15th Birthday Kalyani !
         </h1>
         <p className="font-body text-xl md:text-2xl text-foreground font-bold mb-6">
           🌟 You're officially a Superstar! 🌟
